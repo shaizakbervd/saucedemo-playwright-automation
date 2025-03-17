@@ -2,6 +2,10 @@
 
 This is a Playwright automation framework for testing the SauceDemo website. The framework automates the login flow and adds T-shirt products to the cart.
 
+## Feature Branch
+
+This is the feature branch of the SauceDemo Playwright Automation Framework. This branch can be used for developing new features without affecting the main codebase.
+
 ## Features
 
 - Page Object Model design pattern
