@@ -10,5 +10,10 @@ export const TestData = {
   },
   errorMessages: {
     lockedOut: 'Epic sadface: Sorry, this user has been locked out.'
+  },
+  checkoutInfo: {
+    firstName: 'John',
+    lastName: 'Doe',
+    postalCode: '12345'
   }
 }; 
